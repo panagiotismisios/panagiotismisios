@@ -41,7 +41,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ---
 
 ### **Development Tools**
-- **IDEs**: PyCharm, IntelliJ, CLion, VS Code, Visual Studio, Eclipse, CodeBlocks
+- **IDEs**: PyCharm, IntelliJ, CLion, VS Code, Visual Studio, Eclipse, Code::Blocks
 - **Version Control**: Git
 
 ### **Data & Analytics**
