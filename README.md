@@ -49,9 +49,10 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Enterprise Systems**: SAP ERP
 
 ### **Design & Development**
-- **3D Design**: 3ds Max, Blender
+- **3D Design**: 3ds Max, Blender, Tinkercad
 - **Software Design**: Visual Paradigm
 - **Web Development**: WordPress
+- **Hardware Design**: KiCad
 
 ### **Operating Systems**
 - **Windows**, **iOS**
