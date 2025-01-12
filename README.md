@@ -93,7 +93,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## **Visual Summary 📌**
+## **Tech Summary 📌**
 
 <p align="center">
   <a href="https://skillicons.dev">
