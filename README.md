@@ -16,7 +16,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **Programming Languages, Libraries, Apps & Frameworks 🖥️**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,npm,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,angular,eclipse,figma,git,github,heroku,blender,kubernetes,linux,notion,wordpress,windows,ps" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,npm,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,angular,eclipse,figma,git,github,heroku,blender,kubernetes,linux,notion,wordpress,windows,ps" />
   </a>
 </p>
 
