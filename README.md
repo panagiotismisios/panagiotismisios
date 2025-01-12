@@ -34,7 +34,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 </p>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=transparent" style="width: 51%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=chartreuse-dark" style="width: 51%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&theme=cobalt" style="width: 40%;">
 </div>
 
