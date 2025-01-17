@@ -91,6 +91,19 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 # **Projects Portfolio: 🛠️**
 
+## **1.Sudoku Solver**
+
+🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
+**📜 Description**:
+A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.
+**💡 Key Highlights**:
+
+- Implemented **backtracking** technique
+- Visual representation of **sudoku board** during program execution
+- **Step-by-step guide** using commments
+**💻 Technologies**:  
+  `Python`
+
 ---
 
 ## **Tech Summary 📌**
