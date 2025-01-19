@@ -128,7 +128,6 @@ My repositories reflect my journey as a developer, and I'm eager to learn from a
   <img width="7" />
 </div>
 
-
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
