@@ -7,7 +7,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 💬 Ask me anything – I'm always open to discussions.
 - 📫 Reach me: [panagiotismisios@gmail.com](mailto:panagiotismisios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/panagiotis-misios-968196344/) or [LeetCode](https://leetcode.com/u/panagiotismisios/).
 
----
 
 ## **Skills & Stats 🚀**
 
@@ -42,7 +41,6 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img alt="github-snake" src="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
 </picture>
 
----
 
 ### **Development Tools 💻**
 - **IDEs**: PyCharm Professional, IntelliJ IDEA Ultimate, WebStorm, CLion, VS Code, Visual Studio, Eclipse, Code::Blocks
@@ -73,7 +71,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **DevOps & Containerization 🧑‍💻**
 - **Docker**, **Kubernetes**
 
----
 
 ## Soft Skills 💡
 
@@ -82,7 +79,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
 - **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
 
----
 
 ## Education 🎓
 
@@ -91,7 +87,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Certifications**: Advanced Python with applications in Machine Learning - University of the Aegean
 
----
 
 # **Projects Portfolio: 🛠️**
 
@@ -108,7 +103,6 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 **💻 Technologies**:  
   `Python`
 
----
 
 ## **Tech Summary 📌**
 
@@ -117,7 +111,6 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
   <img width="7" />
 </div>    
 
----
 
 ## Let's Connect and Collaborate! 🤝
 
