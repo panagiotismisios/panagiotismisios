@@ -89,6 +89,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Certifications**: Advanced Python with applications in Machine Learning - University of the Aegean
 
+---
 
 # **🛠️ Projects Portfolio:**
 
@@ -105,14 +106,16 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 **💻 Technologies**:  
   `Python`
 
+---
 
 ## **📌 Tech Stack:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="200"/>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="175"/>
   <img width="7" />
 </div>    
 
+---
 
 ## 🤝 Let's Connect and Collaborate!
 
@@ -121,7 +124,7 @@ I'm passionate about technology and always open to new opportunities and collabo
 My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter,discord,stackoverflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter,discord,stackoverflow" height="40"/>
   <img width="7" />
 </div>
 
