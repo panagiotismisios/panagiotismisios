@@ -1,6 +1,4 @@
-# Panagiotis Misios - Computer Science Student
-
-### Hi there! 👋 I'm Panagiotis Misios
+# Hi there! 👋 I'm Panagiotis Misios
 
 I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
 
@@ -11,7 +9,9 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## **Programming Languages, Libraries & Frameworks 🖥️**
+## **Skills & Stats 🚀**
+
+### **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
