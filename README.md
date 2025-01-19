@@ -11,9 +11,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## Skills 🚀
-
-### **Programming Languages, Libraries & Frameworks 🖥️**
+## **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
