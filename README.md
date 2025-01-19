@@ -61,7 +61,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **Utilities 🌐**
 - **Networking & Security**: PuTTY, Wireshark
 - **Local Web Development**: Xampp
-- **Virtualization**: VirtualBox
+- **Virtualization**: VMWare Workstation, VirtualBox
 
 ### **Database Management 📝**
 - **MySQL**, **MariaDB**, **H2**
@@ -108,11 +108,10 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 
 ## **Tech Summary 📌**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,npm,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,angular,eclipse,figma,git,github,heroku,blender,kubernetes,linux,notion,wordpress,windows,ps" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,linux,notion,wordpress,replit,ps" height="200"/>
+  <img width="7" />
+</div>    
 
 ---
 
