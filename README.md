@@ -38,6 +38,12 @@ I'm a computer science student passionate about exploring the endless possibilit
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### **Development Tools 💻**
