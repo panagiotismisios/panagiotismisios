@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Panagiotis Misios
+# Hello World! 👋 I'm Panagiotis Misios
 
 I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
 
@@ -7,6 +7,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 💬 Ask me anything – I'm always open to discussions.
 - 📫 Reach me: [panagiotismisios@gmail.com](mailto:panagiotismisios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/panagiotis-misios-968196344/) or [LeetCode](https://leetcode.com/u/panagiotismisios/).
 
+---
 
 ## **🚀 Skills & Stats:**
 
@@ -71,6 +72,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **🧑‍💻 DevOps & Containerization:**
 - **Docker**, **Kubernetes**
 
+---
 
 ## 💡 Soft Skills:
 
@@ -117,6 +119,11 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
 
 My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter,discord,stackoverflow" height="45"/>
+  <img width="7" />
+</div>
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
