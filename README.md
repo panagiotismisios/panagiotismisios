@@ -9,9 +9,9 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## **Skills & Stats 🚀:**
+## **Skills & Stats 🚀**
 
-### **Programming Languages, Libraries & Frameworks 🖥️:**
+### **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
@@ -43,38 +43,38 @@ I'm a computer science student passionate about exploring the endless possibilit
 </picture>
 
 
-### **Development Tools 💻:**
+### **Development Tools 💻**
 - **IDEs**: PyCharm Professional, IntelliJ IDEA Ultimate, WebStorm, CLion, VS Code, Visual Studio, Eclipse, Code::Blocks
 - **Version Control**: Git
 
-### **Data & Analytics 📊:**
+### **Data & Analytics 📊**
 - **Data Visualization & BI**: Tableau, PowerBI
 - **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
 - **Enterprise Systems**: SAP ERP
 
-### **Design & Development 🛠️:**
+### **Design & Development 🛠️**
 - **3D Design**: 3ds Max, Blender, Tinkercad
 - **Software Design**: Visual Paradigm
 - **Web Development**: WordPress, Wix
 - **Hardware Design**: KiCad
 
-### **Operating Systems ⚙️:**
+### **Operating Systems ⚙️**
 - **Windows**, **iOS**
 
-### **Utilities 🌐:**
+### **Utilities 🌐**
 - **Networking & Security**: PuTTY, Wireshark
 - **Local Web Development**: Xampp
 - **Virtualization**: VMWare Workstation, VirtualBox
 
-### **Database Management 📝:**
+### **Database Management 📝**
 - **MySQL**, **MariaDB**, **H2**
 
-### **DevOps & Containerization 🧑‍💻:**
+### **DevOps & Containerization 🧑‍💻**
 - **Docker**, **Kubernetes**
 
 ---
 
-## Soft Skills 💡:
+## Soft Skills 💡
 
 - **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
@@ -82,7 +82,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
 
 
-## Education 🎓:
+## Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science
 - **University**: University of Macedonia
@@ -91,7 +91,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-# **Projects Portfolio 🛠️:**
+# **Projects Portfolio 🛠️**
 
 ## **1. Sudoku Solver**  
 
@@ -108,10 +108,10 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 
 ---
 
-## **Tech Stack 📌:**
+## **Tech Stack 📌**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="175"/>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="180"/>
   <img width="7" />
 </div>    
 
