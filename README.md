@@ -109,7 +109,7 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 ## **Tech Summary 📌**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,linux,notion,wordpress,replit,ps" height="200"/>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="200"/>
   <img width="7" />
 </div>    
 
