@@ -59,7 +59,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Hardware Design**: KiCad
 
 ### **Operating Systems ⚙️**
-- **Windows**, **iOS**
+- **Windows**, **iOS**, **Linux**
 
 ### **Utilities 🌐**
 - **Networking & Security**: PuTTY, Wireshark
