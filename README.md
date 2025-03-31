@@ -81,6 +81,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
 - **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
 - **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
+- **Intelectual Curiosity**
 
 
 ## Education 🎓
