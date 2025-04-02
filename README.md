@@ -87,7 +87,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ## Education 🎓
 
-- **Degree**: Bachelor of Science in Applied Computer Science
+- **Degree**: BSc in Computer Science
 - **University**: University of Macedonia
 - **Expected Graduation**: 2026
 - **Certifications**: Advanced Python with applications in Machine Learning - University of the Aegean
