@@ -114,7 +114,7 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 ## **Tech Stack 📌**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,redux,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="200"/>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,swift,kotlin,mysql,ruby,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,redux,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,django,eclipse,figma,git,github,heroku,blender,docker,kubernetes,tailwindcss,unity,unrealengine,solidity,redis,linux,notion,wordpress,replit,ps" height="240"/>
   <img width="8" />
 </div>    
 
@@ -125,11 +125,6 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
 
 My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter,discord,stackoverflow" height="40"/>
-  <img width="7" />
-</div>
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
