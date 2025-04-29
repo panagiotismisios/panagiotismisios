@@ -9,25 +9,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## **Skills & Stats 🚀**
-
-### **Programming Languages, Libraries & Frameworks 🖥️**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-F7DF1E?logo=c%2B%2B&logoColor=black" alt="C++" >  
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?logo=uml&logoColor=white" alt="UML" />
-</p>
-
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=shades-of-purple" style="width: 51%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
@@ -39,35 +20,68 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img alt="github-snake" src="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
 </picture>
 
+---
 
-### **Development Tools 💻**
-- **IDEs**: PyCharm Professional, IntelliJ IDEA Ultimate, WebStorm, CLion, VS Code, Visual Studio, Eclipse, Code::Blocks
-- **Version Control**: Git
+## Tech Stack & Tools 📌  
 
-### **Data & Analytics 📊**
-- **Data Visualization & BI**: Tableau, PowerBI
-- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
-- **Enterprise Systems**: SAP ERP
+<div align="center">
 
-### **Design & Development 🛠️**
-- **3D Design**: 3ds Max, Blender, Tinkercad
-- **Software Design**: Visual Paradigm
-- **Web Development**: WordPress, Wix
-- **Hardware Design**: KiCad
+### 🚀 **Main Tech Stack**  
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c" height="60"/>
+</p>
 
-### **Operating Systems ⚙️**
-- **Windows**, **iOS**, **Linux**
+### 🎨 **Frontend Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,wordpress" height="60"/>
+</p>
 
-### **Utilities 🌐**
-- **Networking & Security**: PuTTY, Wireshark
-- **Local Web Development**: Xampp
-- **Virtualization**: VMWare Workstation, VirtualBox
+### ⚙️ **Backend Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,net,py,php,firebase" height="60"/>
+</p>
 
-### **Database Management 📝**
-- **MySQL**, **MariaDB**, **H2**
+### 🌐 **Web Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,vuejs,svelte,angular,mongodb,django,npm,electron,babel" height="60"/>
+</p>
 
-### **DevOps & Containerization 🧑‍💻**
-- **Docker**, **Kubernetes**
+### 📱 **Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,androidstudio" height="60"/>
+</p>
+
+### 🎮 **Game Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unrealengine,unity" height="60"/>
+</p>
+
+### 🗄️ **Databases & Terminals**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,bash,powershell" height="60"/>
+</p>
+
+### 🖼️ **UI/UX Design**  
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" height="60"/>
+</p>
+
+### ☁️ **DevOps & Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="60"/>
+</p>
+
+### 🛠️ **IDEs & Development Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,cmake,anaconda,eclipse,git,arduino" height="60"/>
+</p>
+
+### 💻 **Operating Systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple,raspberrypi" height="60"/>
+</p>
+
+</div>
 
 ---
 
@@ -123,16 +137,7 @@ It supports common **file operations** like **open**, **copy**, **delete**, **re
 - Lists **contents** of any selected **directory**
 - Simple and **intuitive layout** with clickable buttons
 
-**💻 Technologies**: `Python`, `Tkinter`, `EasyGUI`
-
----
-
-## **Tech Stack 📌**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,html,css,js,typescript,mysql,bash,php,net,react,nodejs,nextjs,vuejs,svelte,mongodb,vite,angular,npm,electron,babel,cmake,androidstudio,vscode,visualstudio,pycharm,idea,clion,webstorm,powershell,windows,apple,raspberrypi,arduino,anaconda,eclipse,git,github,docker,kubernetes,tailwindcss,unity,unrealengine,linux,wordpress,ps" height="240"/>
-  <img width="8" />
-</div>    
+**💻 Technologies**: `Python`, `Tkinter`, `EasyGUI`   
 
 ---
 
