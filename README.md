@@ -1,11 +1,22 @@
-# Hello World! 👋 I'm Panagiotis Misios
+# Panagiotis Misios | Software Developer
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF713&center=true&multiline=true&width=435&height=60&lines=Undergraduate+Student;Future+Full+Stack+Developer" alt="Typing SVG">
+</p>
+
+## Hello World! 👋 I'm Panagiotis Misios
 
 I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
 
 - 🌱 I’m currently working on various exciting projects.
 - 🔭 I’m eager to share my work with the community and collaborate with others.
 - 💬 Ask me anything – I'm always open to discussions.
-- 📫 Reach me: [panagiotismisios@gmail.com](mailto:panagiotismisios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/panagiotis-misios-968196344/) or [LeetCode](https://leetcode.com/u/panagiotismisios/).
+- 📫 **Connect with me**:
+  - [Email](mailto:panagiotismisios@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/panagiotis-misios/)
+  - [LeetCode](https://leetcode.com/u/panagiotismisios/)
 
 ---
 
