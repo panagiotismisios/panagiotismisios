@@ -96,7 +96,8 @@ I'm a computer science student passionate about exploring the endless possibilit
 🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
 
 **📜 Description**:  
-A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.  
+A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.
+
 **💡 Key Highlights**:  
 
 - Implemented **backtracking** technique.  
