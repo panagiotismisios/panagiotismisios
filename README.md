@@ -94,13 +94,16 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Agility and Adaptability**
 - **Intelectual Curiosity and Empathy**
 
+---
 
-## Education 🎓
+# 🎓 Education  
+### **B.Sc. in Applied Computer Science**  
+**University of Macedonia**  
 
-- **Degree**: BSc in Computer Science
-- **University**: University of Macedonia
-- **Expected Graduation**: 2026
-- **Certifications**: Advanced Python with applications in Machine Learning - University of the Aegean
+---
+
+# 📜 Certifications  
+- **Advanced Python Programming with applications in Machine Learning** – *University of Aegean*  
 
 ---
 
