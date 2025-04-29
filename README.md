@@ -92,18 +92,37 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 # **Projects Portfolio 🛠️**
 
-## **1. Sudoku Solver**  
+## **🔢 Sudoku Solver**  
+🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
 
-🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)  
 **📜 Description**:  
 A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.  
 **💡 Key Highlights**:  
 
 - Implemented **backtracking** technique.  
 - Visual representation of **sudoku board** during program execution.  
-- **Step-by-step guide** using commments.  
-**💻 Technologies**:  
-  `Python`
+- **Step-by-step guide** using commments.
+
+**💻 Technologies**: `Python`
+
+---
+
+## **🗃️ Python File Manager GUI**
+🔗 [File_Manager](https://github.com/panagiotismisios/File_Manager)
+
+**📜 Description**:  
+This is a Python-based GUI File Manager built with **Tkinter** and **EasyGUI** that allows users to manage files and folders with ease.  
+It supports common **file operations** like **open**, **copy**, **delete**, **rename**, and folder management directly from a **simple interface**.
+
+**💡 Key Highlights**:
+
+- Built using **Tkinter** for GUI and **EasyGUI** for file dialog prompts  
+- Allows file **opening**, **copying**, **deletion**, and **renaming**  
+- Supports folder **creation** and **removal**  
+- Lists **contents** of any selected **directory**
+- Simple and **intuitive layout** with clickable buttons
+
+**💻 Technologies**: `Python`, `Tkinter`, `EasyGUI`
 
 ---
 
