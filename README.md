@@ -34,7 +34,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## Tech Stack & Tools 📌  
+# 📌 Tech Stack & Tools  
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## Soft Skills 💡
+# 💡 Soft Skills
 
 - **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
@@ -119,7 +119,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-# **Projects Portfolio 🛠️**
+# **🛠️ Projects Portfolio**
 
 ## **🔢 Sudoku Solver**  
 🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
