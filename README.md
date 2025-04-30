@@ -121,19 +121,21 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 # **🛠️ Projects Portfolio**
 
-## **🔢 Sudoku Solver**  
-🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
+## **🌤️ Weather App – A Simple PyQt5 Weather Forecast Application**  
+🔗 [Weather_App](https://github.com/panagiotismisios/Weather_App)
 
 **📜 Description**:  
-A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.
+This **Weather App** is a sleek, user-friendly desktop application built with **Python** and **PyQt5**. It allows users to check real-time weather information for any city around the world using the **OpenWeatherMap API**.
 
-**💡 Key Highlights**:  
+**💡 Key Highlights**:
 
-- Implemented **backtracking** technique.  
-- Visual representation of **sudoku board** during program execution.  
-- **Step-by-step guide** using commments.
+- **City-Based Forecasts**: Just enter a city name and get instant weather updates.  
+- **Live Temperature Display**: Converts temperature from Kelvin to Celsius and presents it in large, readable font.  
+- **Emoji-Based Weather Visualization**: Weather conditions are visually represented with intuitive emojis (e.g., ☀️ for sunny, ❄️ for snow).  
+- **Error Handling**: Gracefully handles API errors, timeouts, invalid cities, and connectivity issues with user-friendly messages.  
+- **Stylized UI**: Custom fonts and sizes for a clean and modern interface.
 
-**💻 Technologies**: `Python`
+**💻 Technologies**: `Python`, `PyQt5`   
 
 ---
 
@@ -153,6 +155,22 @@ It supports common **file operations** like **open**, **copy**, **delete**, **re
 - Simple and **intuitive layout** with clickable buttons
 
 **💻 Technologies**: `Python`, `Tkinter`, `EasyGUI`   
+
+---
+
+## **🔢 Sudoku Solver**  
+🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
+
+**📜 Description**:  
+A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** algorithm that works by recursively exploring all possible solutions to the given sudoku matrix.
+
+**💡 Key Highlights**:  
+
+- Implemented **backtracking** technique.  
+- Visual representation of **sudoku board** during program execution.  
+- **Step-by-step guide** using commments.
+
+**💻 Technologies**: `Python`
 
 ---
 
