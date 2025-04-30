@@ -139,7 +139,7 @@ This **Weather App** is a sleek, user-friendly desktop application built with **
 
 ---
 
-## **🗃️ Python File Manager GUI**
+## **🗃️ File Manager for Windows File Explorer**
 🔗 [File_Manager](https://github.com/panagiotismisios/File_Manager)
 
 **📜 Description**:  
