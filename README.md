@@ -50,12 +50,12 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### ⚙️ **Backend Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,net,py,php,firebase" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs,net,py,php" height="60"/>
 </p>
 
 ### 🌐 **Web Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,vuejs,svelte,angular,mongodb,django,npm,electron,babel" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,vuejs,svelte,angular,mongodb,django,npm" height="60"/>
 </p>
 
 ### 📱 **Mobile Development**
@@ -85,7 +85,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🛠️ **IDEs & Development Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,cmake,anaconda,eclipse,git,arduino" height="60"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,git,arduino" height="60"/>
 </p>
 
 ### 💻 **Operating Systems**
