@@ -55,7 +55,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🌐 **Web Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,vuejs,svelte,angular,mongodb,django,npm" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,npm" height="60"/>
 </p>
 
 ### 📱 **Mobile Development**
