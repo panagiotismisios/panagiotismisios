@@ -13,10 +13,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 🌱 I’m currently working on various exciting projects.
 - 🔭 I’m eager to share my work with the community and collaborate with others.
 - 💬 Ask me anything – I'm always open to discussions.
-- 📫 **Connect with me**:
-  - [Email](mailto:panagiotismisios@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/panagiotis-misios/)
-  - [LeetCode](https://leetcode.com/u/panagiotismisios/)
 
 ---
 
