@@ -85,7 +85,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🛠️ **IDEs & Development Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,git,arduino" height="60"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,git" height="60"/>
 </p>
 
 ### 💻 **Operating Systems**
