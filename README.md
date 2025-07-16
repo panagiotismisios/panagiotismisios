@@ -1,4 +1,4 @@
-# Panagiotis Misios | Software Developer
+# Panagiotis Misios | Software Engineer
 
 <br>
 
