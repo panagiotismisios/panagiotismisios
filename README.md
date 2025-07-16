@@ -75,12 +75,12 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🖼️ **UI/UX Design**  
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" height="60"/>
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma" height="60"/>
 </p>
 
 ### ☁️ **DevOps & Cloud**  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="60"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="60"/>
 </p>
 
 ### 🛠️ **IDEs & Development Tools**  
