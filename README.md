@@ -36,7 +36,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🚀 **Main Tech Stack**  
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c" height="60"/>
+  <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,c" height="60"/>
 </p>
 
 ### 🎨 **Frontend Development**  
@@ -51,7 +51,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### 🌐 **Web Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,npm" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,vuejs,npm" height="60"/>
 </p>
 
 ### 📱 **Mobile Development**
@@ -59,19 +59,14 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://skillicons.dev/icons?i=java,kotlin,swift,androidstudio" height="60"/>
 </p>
 
-### 🎮 **Game Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,unrealengine,unity" height="60"/>
-</p>
-
 ### 🗄️ **Databases & Terminals**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,bash,powershell" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,bash,powershell" height="60"/>
 </p>
 
 ### 🖼️ **UI/UX Design**  
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma" height="60"/>
+  <img src="https://skillicons.dev/icons?i=ps,figma" height="60"/>
 </p>
 
 ### ☁️ **DevOps & Cloud**  
@@ -90,17 +85,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 </p>
 
 </div>
-
----
-
-# 💡 Soft Skills
-
-- **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
-- **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
-- **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
-- **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
-- **Agility and Adaptability**
-- **Intelectual Curiosity and Empathy**
 
 ---
 
@@ -169,9 +153,3 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 **💻 Technologies**: `Python`
 
 ---
-
-## Let's Connect and Collaborate! 🤝
-
-I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
-
-My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
