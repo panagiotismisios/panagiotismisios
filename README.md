@@ -54,11 +54,6 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://skillicons.dev/icons?i=react,vite,vuejs,npm" height="60"/>
 </p>
 
-### 📱 **Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,androidstudio" height="60"/>
-</p>
-
 ### 🗄️ **Databases & Terminals**  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,bash,powershell" height="60"/>
