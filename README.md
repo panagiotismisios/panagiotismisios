@@ -151,5 +151,3 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 - **Step-by-step guide** using commments.
 
 **💻 Technologies**: `Python`
-
----
