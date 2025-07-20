@@ -1,4 +1,4 @@
-# Panagiotis Misios | Software Engineer
+<h1 align="center">Hello World! 👋 I'm Panagiotis Misios</h1>
 
 <br>
 
@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF713&center=true&multiline=true&width=435&height=60&lines=Undergraduate+Student;Future+Full+Stack+Developer" alt="Typing SVG">
 </p>
 
-## Hello World! 👋 I'm Panagiotis Misios
-
-I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
-
-- 🌱 I’m currently working on various exciting projects.
-- 🔭 I’m eager to share my work with the community and collaborate with others.
-- 💬 Ask me anything – I'm always open to discussions.
+I am a Computer Science student at University of Macedonia, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ---
 
@@ -30,7 +24,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-# 📌 Tech Stack & Tools  
+## 📌 Tech Stack & Tools  
 
 <div align="center">
 
@@ -39,57 +33,31 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,c" height="60"/>
 </p>
 
-### 🎨 **Frontend Development**  
+### 🎨 **Front-End Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,wordpress" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,nodejs,vuejs" height="60"/>
 </p>
 
-### ⚙️ **Backend Development**  
+### ⚙️ **Back-End Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,net,py,php" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,net,py,php" height="60"/>
 </p>
 
-### 🌐 **Web Frameworks**
+### 🗄️ **Databases**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,vuejs,npm" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" height="60"/>
 </p>
 
-### 🗄️ **Databases & Terminals**  
+### 🛠️ **DevOps | Development Tools | IDEs**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,bash,powershell" height="60"/>
-</p>
-
-### 🖼️ **UI/UX Design**  
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,figma" height="60"/>
-</p>
-
-### ☁️ **DevOps & Cloud**  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="60"/>
-</p>
-
-### 🛠️ **IDEs & Development Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,vscode,visualstudio,git" height="60"/>
-</p>
-
-### 💻 **Operating Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple,raspberrypi" height="60"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ps,figma,pycharm,idea,clion,webstorm,vscode,visualstudio,git" height="60"/>
 </p>
 
 </div>
 
 ---
 
-# 🎓 Education  
-### **B.Sc. in Applied Computer Science**  
-**University of Macedonia**  
-
----
-
-# 📜 Certifications  
+## 📜 Certifications  
 - **Advanced Python Programming with applications in Machine Learning** – *University of Aegean*  
 
 ---
