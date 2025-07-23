@@ -59,7 +59,7 @@ I am a Computer Science student at University of Macedonia, passionate about exp
 ---
 
 ## 📜 Certifications  
-- **Advanced Python Programming with applications in Machine Learning** – *University of Aegean*  
+- **Advanced Python with applications in Machine Learning** – *University of Aegean*  
 
 ---
 
