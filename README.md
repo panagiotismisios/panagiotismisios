@@ -23,11 +23,6 @@ I am a Computer Science student at University of Macedonia, passionate about exp
 
 <div align="center">
 
-### 🚀 **Main Tech Stack**  
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,c" height="60"/>
-</p>
-
 ### 🎨 **Front-End Development**  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,nodejs,vuejs" height="60"/>
@@ -35,7 +30,7 @@ I am a Computer Science student at University of Macedonia, passionate about exp
 
 ### ⚙️ **Back-End Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,net,py,php" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,c,net,py,php" height="60"/>
 </p>
 
 ### 🗄️ **Databases**  
@@ -45,7 +40,7 @@ I am a Computer Science student at University of Macedonia, passionate about exp
 
 ### 🛠️ **DevOps | Development Tools | IDEs**  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ps,figma,pycharm,idea,clion,webstorm,vscode,visualstudio,git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ps,figma,pycharm,idea,vscode,visualstudio,git" height="60"/>
 </p>
 
 </div>
