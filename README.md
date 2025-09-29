@@ -6,8 +6,6 @@
 
 I am a Computer Science student at University of Macedonia, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
----
-
 <div align="center">
 
 <picture>
@@ -22,10 +20,6 @@ I am a Computer Science student at University of Macedonia, passionate about exp
     <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=shades-of-purple" style="width: 51%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
 </div>
-
----
-
-## 📌 Tech Stack & Tools  
 
 <div align="center">
 
@@ -56,13 +50,6 @@ I am a Computer Science student at University of Macedonia, passionate about exp
 
 </div>
 
----
-
-## 📜 Certifications  
-- **Advanced Python with applications in Machine Learning** – *University of Aegean*  
-
----
-
 # **🛠️ Projects Portfolio**
 
 ## **🌤️ Weather App – A Simple PyQt5 Weather Forecast Application**  
@@ -81,8 +68,6 @@ This **Weather App** is a sleek, user-friendly desktop application built with **
 
 **💻 Technologies**: `Python`, `PyQt5`   
 
----
-
 ## **🗃️ File Manager for Windows File Explorer**
 🔗 [File_Manager](https://github.com/panagiotismisios/File_Manager)
 
@@ -99,8 +84,6 @@ It supports common **file operations** like **open**, **copy**, **delete**, **re
 - Simple and **intuitive layout** with clickable buttons
 
 **💻 Technologies**: `Python`, `Tkinter`, `EasyGUI`   
-
----
 
 ## **🔢 Sudoku Solver**  
 🔗 [Sudoku_Solver](https://github.com/panagiotismisios/Sudoku_Solver)
