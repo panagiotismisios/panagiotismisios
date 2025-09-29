@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF713&center=true&multiline=true&width=435&height=60&lines=CS+Student+@+UoM;Future+Full+Stack+Developer" alt="Typing SVG">
 </p>
 
-I am a Computer Science student at University of Macedonia, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Computer Science student at University of Macedonia, ardent about exploring the realms of coding, machine learning, and building robust applications.
 
 <div align="center">
 
