@@ -21,30 +21,6 @@ I am a CS student at University of Macedonia, eager to explore the realms of cod
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
 </div>
 
-<div align="center">
-
-### 🎨 **Front-End Development**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,nodejs,vuejs" height="60"/>
-</p>
-
-### ⚙️ **Back-End Development**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,c,net,py,php" height="60"/>
-</p>
-
-### 🗄️ **Databases**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" height="60"/>
-</p>
-
-### 🛠️ **DevOps | Development Tools | IDEs**  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ps,figma,pycharm,idea,vscode,visualstudio,git" height="60"/>
-</p>
-
-</div>
-
 # **🛠️ Projects Portfolio**
 
 ## **🌤️ Weather App – A Simple PyQt5 Weather Forecast Application**  
@@ -93,3 +69,13 @@ A comprehensive **Python-based sudoku solver** that utilizes a **backtracking** 
 - **Step-by-step guide** using commments.
 
 **💻 Technologies**: `Python`
+
+## **⚙️ Tech Stack**
+
+<div align="center">
+  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,git,supabase,figma,appwrite,vuejs,vite,java,spring,cs,c,net,py,php,laravel,firebase,nodejs,mysql,sqlite,postgres,mongodb,docker,kubernetes,ps" height="100"/>
+</p>
+
+</div>
