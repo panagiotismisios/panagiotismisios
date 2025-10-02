@@ -20,13 +20,3 @@ I am a CS student at University of Macedonia, eager to explore the realms of cod
 </p>
 
 </div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/panagiotismisios/panagiotismisios/output/github-snake.svg" />
-</picture>
-
-</div>
