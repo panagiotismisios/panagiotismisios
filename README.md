@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Panagiotis Misios</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 I am a CS student at University of Macedonia, eager to explore the realms of coding, machine learning, and building robust applications.
 
 ## 🌐 Connect with me:
@@ -11,7 +11,7 @@ I am a CS student at University of Macedonia, eager to explore the realms of cod
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
   
