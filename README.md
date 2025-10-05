@@ -3,9 +3,6 @@
 ## 💫 About Me:
 I am a CS student at University of Macedonia, eager to explore the realms of coding, machine learning, and building robust applications.
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-misios/)
-
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=shades-of-purple" style="width: 51%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=codeSTACKr" style="width: 40%;">
