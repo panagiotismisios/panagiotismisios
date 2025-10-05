@@ -13,7 +13,7 @@ I am a CS student at University of Macedonia, eager to explore the realms of cod
 <div align="center">
   
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,spring,tailwindcss,react,nextjs,git,supabase,figma,appwrite,vuejs,vite,cs,c,net,py,php,laravel,firebase,nodejs,mysql,sqlite,postgres,mongodb,docker,kubernetes,ps,azure,postman" height="100"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,spring,tailwindcss,react,nextjs,git,supabase,figma,appwrite,vuejs,vite,cs,c,net,py,php,svelte,laravel,firebase,nodejs,mysql,sqlite,postgres,mongodb,docker,kubernetes,ps,azure,postman,drools" height="100"/>
 </p>
 
 </div>
