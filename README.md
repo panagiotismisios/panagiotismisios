@@ -6,11 +6,6 @@ I am a CS student at University of Macedonia, eager to explore the realms of cod
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotis-misios) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29158004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panagiotismisios@gmail.com)
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=panagiotismisios&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" style="width: 51%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panagiotismisios&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=tokyonight" style="width: 40%;">
-</div>
-
 ## 💻 Tech Stack:
 
 Languages:
