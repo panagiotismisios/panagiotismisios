@@ -17,7 +17,7 @@ Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 Developer Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-674FEB?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FE28A2?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-F7DF1E?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-21D789?style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
