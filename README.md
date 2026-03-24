@@ -4,7 +4,7 @@
 I am a CS student at University of Macedonia, eager to explore the realms of coding and building robust web applications.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotis-misios) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29158004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panagiotismisios@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotis-misios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panagiotismisios@gmail.com)
 
 ## 💻 Tech Stack:
 
