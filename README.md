@@ -17,9 +17,9 @@ Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 Developer Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%674FEB?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-%F7DF1E?style=for-the-badge&logo=WebStorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-%01796F?style=for-the-badge&logo=DataGrip&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-674FEB?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-F7DF1E?style=for-the-badge&logo=WebStorm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-01796F?style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
